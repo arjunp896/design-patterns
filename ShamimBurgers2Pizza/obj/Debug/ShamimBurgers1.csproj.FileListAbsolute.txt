@@ -1,0 +1,14 @@
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers1\bin\Debug\ShamimBurgers1.exe.config
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers1\bin\Debug\ShamimBurgers1.exe
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers1\bin\Debug\ShamimBurgers1.pdb
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers1\obj\Debug\ShamimBurgers1.csprojAssemblyReference.cache
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers1\obj\Debug\ShamimBurgers1.csproj.CoreCompileInputs.cache
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers1\obj\Debug\ShamimBurgers1.exe
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers1\obj\Debug\ShamimBurgers1.pdb
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers2Pizza\bin\Debug\ShamimBurgers1.exe.config
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers2Pizza\bin\Debug\ShamimBurgers1.exe
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers2Pizza\bin\Debug\ShamimBurgers1.pdb
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers2Pizza\obj\Debug\ShamimBurgers1.csprojAssemblyReference.cache
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers2Pizza\obj\Debug\ShamimBurgers1.csproj.CoreCompileInputs.cache
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers2Pizza\obj\Debug\ShamimBurgers1.exe
+E:\Lasalle\Sem III\MULTI-TIER APPLICATIONS - C#\Assignment\repos\ShamimBurgers2Pizza\obj\Debug\ShamimBurgers1.pdb
